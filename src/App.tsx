@@ -6,7 +6,7 @@ import FormCVR from './components/FormCVR';
 function App() {
   return (
     <div>
-      <h1>salam</h1>
+      <h1>salammm</h1>
       <BrowserRouter>
       <Routes>
         <Route path ='/FormCVR' element={<FormCVR/>}/>
